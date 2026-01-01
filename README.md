@@ -1,4 +1,3 @@
-generate me readme text for this n8n workflow that i have uploaded on githubJavaScriptSqWQTUGPKXH2WtEB-feedback_form.jsonn8n Workflow: Feedback Form Classifier & Router
 This is an automated n8n workflow that handles user feedback submitted through a simple web form. It uses AI (Google Gemini) to classify the feedback as either a Complaint, Compliment, or Feature Addition Request, then routes it accordingly to different Airtable tables, Slack channels, and (for complaints) sends an acknowledgment email via Gmail.
 Overview
 
